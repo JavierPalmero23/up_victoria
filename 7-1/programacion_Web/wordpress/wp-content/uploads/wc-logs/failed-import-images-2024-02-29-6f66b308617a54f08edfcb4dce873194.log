@@ -1,0 +1,1 @@
+2024-02-29T04:03:14+00:00 INFO {"url":"wd-product-bg-1.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5000 milliseconds with 236600 out of 253632 bytes received"]},"error_data":[]}}

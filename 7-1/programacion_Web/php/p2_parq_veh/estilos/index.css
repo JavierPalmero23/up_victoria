@@ -1,0 +1,40 @@
+.bg {   /*para e fondo de pantalla*/
+    background-image: url("https://luisgabrielvelazquez.com/wp-content/uploads/2021/06/aumento-movilidad-454287-scaled.jpg");
+    filter: blur(8px);      /*para hacer la imagen borrosa*/
+    -webkit-filter: blur(8px);
+    min-height: 100vh;
+    background-repeat: no-repeat;   /*para ajustar el fondo*/
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;        /*para que este atras de los elementos*/
+}
+
+.container {    /*para acomodar los elementos encima del fondo*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /*para corregir su posicion*/
+    background-color: rgba(255, 255, 255, 0.4);     /*para agragar un fondo contrastante*/
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    z-index: 1;
+}
+
+/*separadores*/
+h1 {
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-bottom: 10px;
+}

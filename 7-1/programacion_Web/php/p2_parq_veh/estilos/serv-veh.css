@@ -1,0 +1,30 @@
+.bg {/*fondo de pantalla*/
+    background-image: url("https://www.unotv.com/uploads/2023/01/verificacion-vehicular-veracruz-costo-calendario-121953.jpg");
+    filter: blur(8px);/*difuminar*/
+    -webkit-filter: blur(8px);
+    min-height: 100vh;
+    height: 125%;
+    background-repeat: no-repeat;/*ajustar fondo*/
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.4);/*fondo contrastante*/
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);/*ajustar posicion*/
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+html, body {/*ajustes dela rea la imagen*/
+    min-height: 100vh;
+    margin: 0;
+}

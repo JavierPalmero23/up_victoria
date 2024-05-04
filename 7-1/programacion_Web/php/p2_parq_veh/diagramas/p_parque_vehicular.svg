@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="148 200 936 430" width="788px" height="230px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="459" y1="318" x2="449" y2="318" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="255" y1="323" x2="245" y2="323" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="449" y1="318" x2="255" y2="323" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="451.5" y1="318" x2="455.03553390593" y2="321.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="451.5" y1="318" x2="455.03553390593" y2="314.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="250" y1="323" x2="253.53553390593" y2="326.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="250" y1="323" x2="253.53553390593" y2="319.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="600" y1="358" x2="610" y2="358" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="814" y1="245" x2="824" y2="245" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="610" y1="358" x2="814" y2="245" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="607.5" y1="358" x2="603.96446609407" y2="361.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="607.5" y1="358" x2="603.96446609407" y2="354.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="819" y1="245" x2="815.46446609407" y2="248.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="819" y1="245" x2="815.46446609407" y2="241.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <rect width="141" height="20" x="459" y="248" style="fill:#007;stroke:black;"/>
+   <text width="141" height="20" x="464" y="262" style="fill:#fff;" font-family="Arial" font-size="16px"> entrada_servicio</text>
+   <rect width="141" height="20" x="459" y="268" style="fill:#aea;stroke:black;"/>
+   <text width="141" height="20" x="464" y="282" style="fill:black;" font-family="Arial" font-size="16px">id_entrada_servicio</text>
+   <rect width="141" height="20" x="459" y="288" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="464" y="302" style="fill:black;" font-family="Arial" font-size="16px">fecha_ingreso</text>
+   <rect width="141" height="20" x="459" y="308" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="464" y="322" style="fill:black;" font-family="Arial" font-size="16px">id_servicio</text>
+   <rect width="141" height="20" x="459" y="328" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="464" y="342" style="fill:black;" font-family="Arial" font-size="16px">total</text>
+   <rect width="141" height="20" x="459" y="348" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="464" y="362" style="fill:black;" font-family="Arial" font-size="16px">id_vehiculo</text>
+   <rect width="82" height="20" x="163" y="293" style="fill:#007;stroke:black;"/>
+   <text width="82" height="20" x="168" y="307" style="fill:#fff;" font-family="Arial" font-size="16px"> servicio</text>
+   <rect width="82" height="20" x="163" y="313" style="fill:#aea;stroke:black;"/>
+   <text width="82" height="20" x="168" y="327" style="fill:black;" font-family="Arial" font-size="16px">id_servicio</text>
+   <rect width="82" height="20" x="163" y="333" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="168" y="347" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="82" height="20" x="163" y="353" style="fill:none;stroke:black;"/>
+   <text width="82" height="20" x="168" y="367" style="fill:black;" font-family="Arial" font-size="16px">costo</text>
+   <rect width="97" height="20" x="824" y="215" style="fill:#007;stroke:black;"/>
+   <text width="97" height="20" x="829" y="229" style="fill:#fff;" font-family="Arial" font-size="16px"> vehiculo</text>
+   <rect width="97" height="20" x="824" y="235" style="fill:#aea;stroke:black;"/>
+   <text width="97" height="20" x="829" y="249" style="fill:black;" font-family="Arial" font-size="16px">id_vehiculo</text>
+   <rect width="97" height="20" x="824" y="255" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="269" style="fill:black;" font-family="Arial" font-size="16px">num_serie</text>
+   <rect width="97" height="20" x="824" y="275" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="289" style="fill:black;" font-family="Arial" font-size="16px">marca</text>
+   <rect width="97" height="20" x="824" y="295" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="309" style="fill:black;" font-family="Arial" font-size="16px">submarca</text>
+   <rect width="97" height="20" x="824" y="315" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="329" style="fill:black;" font-family="Arial" font-size="16px">modelo</text>
+   <rect width="97" height="20" x="824" y="335" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="349" style="fill:black;" font-family="Arial" font-size="16px">tipo</text>
+   <rect width="97" height="20" x="824" y="355" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="369" style="fill:black;" font-family="Arial" font-size="16px">color</text>
+   <rect width="97" height="20" x="824" y="375" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="389" style="fill:black;" font-family="Arial" font-size="16px">capacidad</text>
+   <rect width="97" height="20" x="824" y="395" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="829" y="409" style="fill:black;" font-family="Arial" font-size="16px">procedencia</text>
+</svg>
