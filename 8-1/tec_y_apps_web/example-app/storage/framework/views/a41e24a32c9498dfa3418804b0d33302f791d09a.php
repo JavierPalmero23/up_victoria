@@ -1,0 +1,1 @@
+bienvenidos alumnos<?php /**PATH C:\xampp\htdocs\8-1\tec_y_apps_web\example-app\resources\views/alumnos.blade.php ENDPATH**/ ?>

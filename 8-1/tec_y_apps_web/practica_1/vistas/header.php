@@ -21,7 +21,7 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="index.php?m=alumno">Alumnos</a></li>
+              <li><a href="index.php?m=estudiante">Alumnos</a></li>
               <li><a href="index.php?m=carrera">Carreras</a></li>              
             </ul>
           </div><!--/.nav-collapse -->

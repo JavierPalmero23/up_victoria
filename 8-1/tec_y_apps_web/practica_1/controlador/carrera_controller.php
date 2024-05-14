@@ -11,7 +11,7 @@ class carrera_controller{
     function index(){
         $query = $this->model->get();
         include_once('vistas/header.php');
-        include_once('vistas/carrera/index.php');
+        include_once('vistas/lista_carrera.php');
         include_once('vistas/footer.php');
     }
 
@@ -22,7 +22,7 @@ class carrera_controller{
         }
         $query = $this->model->get();
         include_once('vistas/header.php');
-        include_once('vistas/carrera/carrera.php');
+        include_once('vistas/carrera.php');
         include_once('vistas/footer.php');
     }
 
@@ -52,7 +52,7 @@ class carrera_controller{
         }
 
         include_once('vistas/header.php');
-        include_once('vistas/carrera/confirm.php');
+        include_once('vistas/confirm.php');
         include_once('vistas/footer.php');
     }
 }
